@@ -14,5 +14,5 @@ function findLongestWordLength(str) {
 
 //Call function 
 
-const output = findLongestWordLength('Coldplay\s new album is called Everyday life')
-console.log(output);
+// const output = findLongestWordLength('Coldplay\s new album is called Everyday life')
+// console.log(output);
